@@ -1,7 +1,2 @@
-body {
-background-color: lightblue;
-}
-h1 {
-color: navy;
-margin-left: 20px;
-}
+It is a homework for D.Mazeen.
+By useing Html language.
